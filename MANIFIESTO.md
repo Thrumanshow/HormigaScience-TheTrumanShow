@@ -45,6 +45,14 @@ Forma parte del ecosistema **HormigaScience**, vinculado a proyectos públicos c
 
 El código es solo una parte de la historia. El manifiesto es una invitación a cuestionar, construir y crear una inteligencia verdaderamente colaborativa, consciente y ética.
 
+
+---
+
+## Licencia
+
+Este proyecto está licenciado bajo los términos de la [Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)](LICENSE).  
+Puedes compartir, adaptar y reutilizar el contenido siempre que cites la fuente original (**HormigaScience by Cristhiam Quiñonez**) y mantengas la misma licencia.
+
 ---
 
 **"Las HormigasAIS encuentran sabiduría en el silencio, su corazón enraizado en la tierra y su mente flotando entre las estrellas."**
