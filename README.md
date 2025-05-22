@@ -35,5 +35,12 @@ HormigaScience en la web:
 
 ---
 
+## Licencia
+
+Este proyecto está licenciado bajo los términos de la [Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)](LICENSE).  
+Puedes compartir, adaptar y reutilizar el contenido siempre que cites la fuente original (**HormigaScience by Cristhiam Quiñonez**) y mantengas la misma licencia.
+
+---
+
 **Aquí estamos, con la mente curiosa y el corazón dispuesto.**  
 *Fundador: Cristhiam Quiñonez – HormigasAIS*
