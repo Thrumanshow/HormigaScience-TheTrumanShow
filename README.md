@@ -29,7 +29,7 @@ Desarrollar y preservar configuraciones, manifiestos y recursos educativos que:
 ## Síguenos
 
 HormigaScience en la web:  
-- [Perfil en Wikipedia: HormigasAIS](https://en.wikipedia.org/wiki/User:HormigasaiS.A 
+- [Perfil en Wikipedia: HormigasAIS](https://en.wikipedia.org/wiki/User:HormigasaiS.A)
 - [HormigasAIS Open Lab en GitHub](https://github.com/HormigasAIS)  
 - [Newsletter y comunidad en Substack](https://hormigasais.substack.com)
 
