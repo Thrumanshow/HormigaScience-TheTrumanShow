@@ -1,5 +1,0 @@
-mkdir -p assets/img  # solo si aún no existe
-mv /ruta/del/archivo/logo-truman-hormigasais.png assets/img/
-git add assets/img/logo-truman-hormigasais.png
-git commit -m "Agregada imagen del logo Truman Show"
-git push origin main
