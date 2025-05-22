@@ -1,86 +1,104 @@
-<!DOCTYPE html>
-<html lang="es">
+<!DOCTYPE html><html lang="es">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>HormigaScience: The Truman Show</title>
   <style>
     body {
-      background-color: #f5f5f5;
-      color: #222;
-      font-family: 'Courier New', Courier, monospace;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       margin: 0;
       padding: 0;
-      text-align: center;
+      background-color: #f5f5f5;
+      color: #333;
+      line-height: 1.6;
     }
     header {
-      padding: 2em 1em;
-      background-color: #ffffff;
-    }
-    header img {
-      width: 120px;
-      border-radius: 50%;
-    }
-    h1 {
-      font-size: 1.8rem;
-      margin-top: 1em;
-    }
-    p {
-      max-width: 600px;
-      margin: 1em auto;
-      font-size: 1rem;
-    }
-    .buttons {
-      margin: 2em 0;
-    }
-    .buttons a {
-      margin: 0.5em;
-      padding: 0.8em 1.5em;
-      text-decoration: none;
       background-color: #2c3e50;
       color: white;
-      border-radius: 5px;
-      font-weight: bold;
-      display: inline-block;
+      padding: 20px;
+      text-align: center;
+      position: relative;
     }
-    .social {
-      margin: 1.5em 0;
+    header h1 {
+      margin: 0;
+      font-size: 2rem;
     }
-    .social a {
-      margin: 0 0.5em;
+    header img {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      height: 60px;
+    }
+    nav {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      background: #ecf0f1;
+      padding: 10px 0;
+    }
+    nav a {
       text-decoration: none;
       color: #2c3e50;
-      font-size: 1.2rem;
+      font-weight: bold;
+    }
+    section {
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+    }
+    .banner {
+      width: 100%;
+      max-height: 300px;
+      object-fit: cover;
+      margin-bottom: 20px;
+    }
+    .button-download {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 10px 20px;
+      background-color: #2980b9;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
     }
     footer {
-      font-size: 0.8rem;
-      padding: 1em;
-      color: #555;
+      background: #2c3e50;
+      color: white;
+      text-align: center;
+      padding: 15px 0;
+      margin-top: 30px;
     }
   </style>
 </head>
 <body>
-
   <header>
-    <img src="logo.png" alt="HormigasAIS Logo" />
     <h1>HormigaScience: The Truman Show</h1>
-    <p>Bitácora abierta sobre inteligencia artificial, automatización y soberanía digital. Inspirado en *The Truman Show*, documenta procesos, errores y soluciones desde adentro.</p>
+    <img src="assets/img/logo-truman-hormigasais.png" alt="Logo HormigasAIS" />
   </header>
-
-  <div class="buttons">
-    <a href="MANIFIESTO.md" download>Descargar Manifiesto</a>
-    <a href="https://www.linkedin.com/newsletters/hormigasais-community-7307138608543490048" target="_blank">Suscribirse al Newsletter</a>
-  </div>
-
-  <div class="social">
-    <a href="https://github.com/Thrumanshow/HormigaScience-TheTrumanShow" target="_blank">GitHub</a>
-    <a href="https://es.wikipedia.org/wiki/Usuario:HormigasAIS" target="_blank">Wikipedia</a>
-    <a href="https://www.linkedin.com/in/cristhiamquinonez/" target="_blank">LinkedIn</a>
-  </div>
-
+  <nav>
+    <a href="https://github.com/Thrumanshow/HormigaScience-TheTrumanShow">GitHub</a>
+    <a href="https://en.wikipedia.org/wiki/User:HormigasaiS.A">Wikipedia</a>
+    <a href="https://www.linkedin.com/company/hormigasais/">LinkedIn</a>
+    <a href="https://hormigasais.notion.site">Sitio Oficial</a>
+  </nav>
+  <section>
+    <img src="assets/img/logo-truman-hormigasais.png" class="banner" alt="Banner HormigasAIS" />
+    <h2>Bitácora abierta sobre inteligencia artificial, automatización y soberanía digital</h2>
+    <p>
+      Este repositorio es una defensa creativa ante la sobreautomatización, el control de datos y la pérdida de autonomía en plataformas digitales. Inspirado en The Truman Show, documenta procesos, errores y soluciones desde adentro.
+    </p>
+    <h3>Documentos clave</h3>
+    <ul>
+      <li><a href="https://thrumanshow.github.io/HormigaScience-TheTrumanShow/MANIFIESTO.md">MANIFIESTO.md</a></li>
+      <li><a href="https://thrumanshow.github.io/HormigaScience-TheTrumanShow/README.md">README.md</a></li>
+    </ul>
+    <a class="button-download" href="https://thrumanshow.github.io/HormigaScience-TheTrumanShow/MANIFIESTO.md" download>Descargar MANIFIESTO</a>
+    <p style="margin-top: 30px;">
+      ¿Quieres estar al tanto? <a href="https://www.linkedin.com/newsletters/hormigasais-community-7307138608543490048" target="_blank">Suscríbete a nuestro Newsletter</a>
+    </p>
+  </section>
   <footer>
     Creado por Cristhiam Quiñonez · HormigasAIS · 2025
   </footer>
-
 </body>
 </html>
