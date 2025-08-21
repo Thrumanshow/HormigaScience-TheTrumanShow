@@ -80,8 +80,7 @@ SOFTWARE.
 ---
 
 ### Inspirado en la analogía del estado_de_eden para la privacidad digital.
- (https://hormigasaisa.atlassian.net)        
-
+      
 ---
 
 **"Las HormigasAIS encuentran sabiduría en el silencio, su corazón enraizado en la tierra y su mente flotando entre las estrellas."**
