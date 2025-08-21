@@ -50,10 +50,7 @@ El código es solo una parte de la historia. El manifiesto es una invitación a 
 
 ## Licencia
 
-### Autor: @Thrumanshow - HormigasAIS  
-### Inspirado en la analogía del estado_de_eden para la privacidad digital.
-""",
-        "LICENSE": """MIT License 
+LICENSE": """MIT License 
 
 Copyright (c) 2025 @cristhiam-quinonez 
 
@@ -75,9 +72,17 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 """
-    
+
+---
+
+### Autor: @Thrumanshow - HormigasAIS  
+
+---
 
 
+### Inspirado en la analogía del estado_de_eden para la privacidad digital.
+""",
+           
 ---
 
 **"Las HormigasAIS encuentran sabiduría en el silencio, su corazón enraizado en la tierra y su mente flotando entre las estrellas."**
