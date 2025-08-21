@@ -76,9 +76,7 @@ SOFTWARE.
 ---
 ### Autor: @Thrumanshow - HormigasAIS  
 ---
-
-### Inspirado en la analogía del estado_de_eden para la privacidad digital
-      
+### Inspirado en la analogía del estado_de_eden para la privacidad digital     
 ---
 
 **"Las HormigasAIS encuentran sabiduría en el silencio, su corazón enraizado en la tierra y su mente flotando entre las estrellas."**
