@@ -74,12 +74,10 @@ SOFTWARE.
 """
 
 ---
-
 ### Autor: @Thrumanshow - HormigasAIS  
-
 ---
 
-### Inspirado en la analogía del estado_de_eden para la privacidad digital.
+### Inspirado en la analogía del estado_de_eden para la privacidad digital
       
 ---
 
